@@ -7,4 +7,4 @@ The final goal of this project is to get datas form given sources (in this case 
 
  The project must contains most (if not all) of the main concepts of OOD while integrating some SOLID method principles.
  
- Le dossier projet doit être ouvert dnas un cli, la commande ng serve (avec node lts et angular cli installé) permet de visualiser sur le port dédié
+Project folder must be open in a cli, use ng serve to visualise project on dedicated port in your browser (specified by the cli avec the command is enterd).
