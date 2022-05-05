@@ -6,3 +6,5 @@ The final goal of this project is to get datas form given sources (in this case 
  to all the recycling/coposting/incinerating services available near it.
 
  The project must contains most (if not all) of the main concepts of OOD while integrating some SOLID method principles.
+ 
+ Le dossier projet doit être ouvert dnas un cli, la commande ng serve (avec node lts et angular cli installé) permet de visualiser sur le port dédié
